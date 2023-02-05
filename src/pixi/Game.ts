@@ -20,3 +20,5 @@ export function unstageEntity(entity: DisplayObject) {
 }
 
 const tower = new Tower();
+new Tower();
+new Tower();
